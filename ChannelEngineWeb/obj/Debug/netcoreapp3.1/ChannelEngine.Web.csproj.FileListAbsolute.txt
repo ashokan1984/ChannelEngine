@@ -1,0 +1,262 @@
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.exe
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.deps.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.runtimeconfig.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.runtimeconfig.dev.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.Views.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.Views.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NLog.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Common.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Service.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Common.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.csproj.AssemblyReference.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.AssemblyInfoInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.AssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.csproj.CoreCompileInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorAssemblyInfo.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorAssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChannelEngine.Web.StaticWebAssets.Manifest.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.TagHelpers.input.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.TagHelpers.output.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorCoreGenerate.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorTargetAssemblyInfo.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorTargetAssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.Views.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.csproj.CopyComplete
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.genruntimeconfig.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.exe
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.deps.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.runtimeconfig.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.runtimeconfig.dev.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.Views.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Web.Views.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Common.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Service.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\bin\Debug\netcoreapp3.1\ChannelEngine.Common.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.csproj.AssemblyReference.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.AssemblyInfoInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.AssemblyInfo.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.csproj.CoreCompileInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorAssemblyInfo.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorAssemblyInfo.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChannelEngine.Web.StaticWebAssets.Manifest.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.TagHelpers.input.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.TagHelpers.output.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorCoreGenerate.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorTargetAssemblyInfo.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.RazorTargetAssemblyInfo.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.Views.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.csproj.CopyComplete
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineWeb\obj\Debug\netcoreapp3.1\ChannelEngine.Web.genruntimeconfig.cache

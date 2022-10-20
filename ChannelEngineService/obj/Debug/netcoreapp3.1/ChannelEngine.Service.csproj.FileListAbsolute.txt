@@ -1,0 +1,30 @@
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Service.deps.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Service.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Common.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Common.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.csproj.AssemblyReference.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.AssemblyInfoInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.AssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.csproj.CoreCompileInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.csproj.CopyComplete
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Service.deps.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Service.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Common.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Common.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.csproj.AssemblyReference.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.AssemblyInfoInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.AssemblyInfo.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.csproj.CoreCompileInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.csproj.CopyComplete
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngine.Service.pdb

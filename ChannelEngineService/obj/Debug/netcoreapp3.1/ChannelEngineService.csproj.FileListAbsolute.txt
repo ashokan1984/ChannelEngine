@@ -1,0 +1,13 @@
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngineService.deps.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngineService.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngineService.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngineModels.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\bin\Debug\netcoreapp3.1\ChannelEngineModels.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.csproj.AssemblyReference.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.GeneratedMSBuildEditorConfig.editorconfig
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.AssemblyInfoInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.AssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.csproj.CoreCompileInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.csproj.CopyComplete
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineService\obj\Debug\netcoreapp3.1\ChannelEngineService.pdb

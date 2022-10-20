@@ -1,0 +1,20 @@
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngine.Models.deps.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.AssemblyInfoInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.AssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.csproj.CoreCompileInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.csproj.AssemblyReference.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngine.Models.deps.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.AssemblyInfoInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.AssemblyInfo.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.csproj.CoreCompileInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngine.Models.csproj.AssemblyReference.cache

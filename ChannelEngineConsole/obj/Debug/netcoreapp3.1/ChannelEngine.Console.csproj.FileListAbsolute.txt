@@ -1,0 +1,70 @@
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.exe
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.deps.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.runtimeconfig.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.runtimeconfig.dev.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\NLog.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Common.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Service.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Common.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.csproj.AssemblyReference.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.AssemblyInfoInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.AssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.csproj.CoreCompileInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.csproj.CopyComplete
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.genruntimeconfig.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.exe
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.deps.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.runtimeconfig.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.runtimeconfig.dev.json
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Console.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Common.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Models.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Service.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Models.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Service.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\bin\Debug\netcoreapp3.1\ChannelEngine.Common.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.csproj.AssemblyReference.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.AssemblyInfoInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.AssemblyInfo.cs
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.csproj.CoreCompileInputs.cache
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.csproj.CopyComplete
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.dll
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.pdb
+C:\Users\U1213107\OneDrive - MMC\Desktop\ChannelEngineAssignment\ChannelEngineAssignment\ChannelEngineConsole\obj\Debug\netcoreapp3.1\ChannelEngine.Console.genruntimeconfig.cache

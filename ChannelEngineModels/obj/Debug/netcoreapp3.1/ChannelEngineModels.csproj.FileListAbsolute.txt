@@ -1,0 +1,10 @@
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngineModels.deps.json
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngineModels.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\bin\Debug\netcoreapp3.1\ChannelEngineModels.pdb
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngineModels.csproj.AssemblyReference.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngineModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngineModels.AssemblyInfoInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngineModels.AssemblyInfo.cs
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngineModels.csproj.CoreCompileInputs.cache
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngineModels.dll
+E:\CE_Assignment\ChannelEngineAssignment\ChannelEngineModels\obj\Debug\netcoreapp3.1\ChannelEngineModels.pdb

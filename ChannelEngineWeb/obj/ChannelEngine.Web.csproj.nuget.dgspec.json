@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineWeb\\ChannelEngine.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngine.Common\\ChannelEngine.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngine.Common\\ChannelEngine.Common.csproj",
+        "projectName": "ChannelEngine.Common",
+        "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngine.Common\\ChannelEngine.Common.csproj",
+        "packagesPath": "C:\\Users\\U1213107\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngine.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\U1213107\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\ChannelEngine.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\ChannelEngine.Models.csproj",
+        "projectName": "ChannelEngine.Models",
+        "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\ChannelEngine.Models.csproj",
+        "packagesPath": "C:\\Users\\U1213107\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\U1213107\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineService\\ChannelEngine.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineService\\ChannelEngine.Service.csproj",
+        "projectName": "ChannelEngine.Service",
+        "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineService\\ChannelEngine.Service.csproj",
+        "packagesPath": "C:\\Users\\U1213107\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\U1213107\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngine.Common\\ChannelEngine.Common.csproj": {
+                "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngine.Common\\ChannelEngine.Common.csproj"
+              },
+              "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\ChannelEngine.Models.csproj": {
+                "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\ChannelEngine.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineWeb\\ChannelEngine.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineWeb\\ChannelEngine.Web.csproj",
+        "projectName": "ChannelEngine.Web",
+        "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineWeb\\ChannelEngine.Web.csproj",
+        "packagesPath": "C:\\Users\\U1213107\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\U1213107\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\ChannelEngine.Models.csproj": {
+                "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineModels\\ChannelEngine.Models.csproj"
+              },
+              "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineService\\ChannelEngine.Service.csproj": {
+                "projectPath": "C:\\Users\\U1213107\\OneDrive - MMC\\Desktop\\ChannelEngineAssignment\\ChannelEngineAssignment\\ChannelEngineService\\ChannelEngine.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
